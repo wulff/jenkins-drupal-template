@@ -365,7 +365,6 @@
       <keepLongStdio>false</keepLongStdio>
       <testDataPublishers/>
     </hudson.tasks.junit.JUnitResultArchiver>
-    <hudson.plugins.statusmonitor.MonitorPublisher/>
   </publishers>
   <buildWrappers/>
 </project>
